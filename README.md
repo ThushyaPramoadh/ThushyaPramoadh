@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ThushyaPramoadh
-- 👀 I’m interested in testing
+- 👀 I’m interested in  Development & Testing
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking for internships
 - 📫 Email :thushyapramoadh1432@gmail.com
--  contact: +91 9110739961
+- ☎️ contact: +91 9110739961
 - 😄 Pronouns: He/Him
 
 <!---
